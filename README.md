@@ -1,2 +1,1 @@
-# Data-extraction-and-text-analysis
-Web Scrapping and saving the scrapped data to text file of different urls
+The objective of this assignment is to extract textual data articles from the given URL and saving them to text file.
